@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hangman
+comment1.params=
+comment1.target=Hangman()
+comment2.params=
+comment2.target=void\ display()
+comment3.params=
+comment3.target=java.lang.String\ Gen()
+comment4.params=k
+comment4.target=boolean\ isVowel(char)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
